@@ -15,6 +15,8 @@ a simple shell for updating dynv6 ddns
 
 这里简单介绍一下如何获取token。
 
+点击官网右上角自己的用户名。
+
 ![image](https://user-images.githubusercontent.com/31506259/178663625-e226aa5c-0c3e-488c-9de4-94ee15330dee.png)
 
 点击**key**
